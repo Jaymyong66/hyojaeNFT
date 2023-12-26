@@ -25,7 +25,7 @@
     "zustand": "^4.4.2"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=3002 react-scripts start",
     "build": "tsc",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
